@@ -24,7 +24,7 @@ a:visited{color: rgb(255, 255, 255);}
  }
 
 .topmenu {
-  color: rgb(252, 252, 252);
+  color: rgba(252, 252, 252, 0.849);
   margin: 10px;
   padding: 20px;
   font-size: 20px;
